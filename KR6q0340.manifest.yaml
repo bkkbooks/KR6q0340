@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0340_000.yaml, hash: 'sha256:f03ec452d2e4f167dae8581a873501855c8fe483c43ae858c14b53d9c652f6ad'}
+  - {seq: 0, filename: KR6q0340_000.yaml, hash: 'sha256:7aad9bae72272c7586cf711696fbc8b9b57feaa28d16baa7d6bca05df571991f'}
   - {seq: 1, filename: KR6q0340_001.yaml, hash: 'sha256:05d7aab73c367a7169281bf53a46d43a90354b8cbafe19dce73b5b3c84266975'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0340_000.markers.yaml, hash: 'sha256:cf8c701db6efca9d9b9e23ec667b249fc75dab1be0230c0bb3d5958322ee1d1f'}
+  - {seq: 0, role: markers, filename: assets/KR6q0340_000.markers.yaml, hash: 'sha256:c922417fec9adc5e4907ff8dedac612453680e6d965147859d41cb19314dffe2'}
   - {seq: 1, role: markers, filename: assets/KR6q0340_001.markers.yaml, hash: 'sha256:cc6965d117e178730169f126903ce333f0691f274bf51646ec135f195cd6b443'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0340_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 虗舟和尚語錄目次
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0340_X_000-mulu-2
     span:
-    - front
+    - body
     - 116
     - 116
   label: No. 1407-A
@@ -857,7 +857,7 @@ table_of_contents:
   label: No. 1407-C
   type: mulu
   level: 1
-hash: sha256:90f25ce63e0a15f178a9983e9619f40a3ed6aefd7ce21f91228d8f33747731e1
+hash: sha256:80dd4abd7e40ae01893cebc713976c212442cab1f9496ccf0e2c41efba8165ab
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0340/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 虗舟和尚語録目次序建康府半山報寧禪寺語録鎮江府金山龍遊禪寺語録潭州鹿苑褒忠禪寺語録撫州踈山白雲禪寺語録平江府承天能仁禪寺語録臨安府中天竺天寧萬壽永祚禪寺語録臨安府靈隱景德禪寺語録臨安府徑山興聖萬壽禪寺語録小參偈頌真讚自讚小佛事行狀跋瓊林昔年絶海遊宋往來吳越多侍先師於武林湖山間每聽火爐頭話間舉平昔提唱以其未許學者流通紙襖所録才竺峰冷泉兩會語耳別德三十年不見大篇全章為恨痛切不意忽獲八會全録喜不自勝卷不釋手觀其語句詞氣簡古機鋒脫略如侍座隅親聞激勵真末法光明幢也然深恐此書湮沒則非為人後者職故命工鋟梓垂之無窮儻閲此而知有松源太師祖的傳之旨則孰謂無補於宗門哉如曰不然子雲未生寥寥千載世果無太玄法言乎嘉元改元冬至日見山庵嗣法小師瓊林謹書
   hash: sha256:c2a4268199f70706db4cf6d47b02e565f95cdef21108cf50947731138a3c384a
   markers:
   - {type: 其他, offset: 0, content: 虗舟和尚語錄目次, id: KR6q0340_X_000-mulu-1, level: '1'}
   - {type: 序, offset: 116, content: No. 1407-A, id: KR6q0340_X_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 虛舟普度禪師語錄
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X71/X71n1407.xml
     old_id: X71n1407
-hash: sha256:f03ec452d2e4f167dae8581a873501855c8fe483c43ae858c14b53d9c652f6ad
+hash: sha256:7aad9bae72272c7586cf711696fbc8b9b57feaa28d16baa7d6bca05df571991f

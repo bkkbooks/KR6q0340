@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0340_000-X.yaml, hash: 'sha256:d9eb72e87b8116ef7d9cf379c46b65de79dfde3a4019c9df95691b5edf414cea'}
+  - {seq: 0, filename: KR6q0340_000-X.yaml, hash: 'sha256:c47ad587d324fa117e90e8c94b1496a8c7cd7abbd18fc204fd196f25dbb36f22'}
   - {seq: 1, filename: KR6q0340_001-X.yaml, hash: 'sha256:19f9b01970f0269e37cb56eba6fbf9ef8b7c9c7d6d9c80c7642af54c26023cfd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0340_000-X.markers.yaml, hash: 'sha256:cefce46df1f3c0f4639786b514e7d6efe5d8885791258c7dc2f49849920529d4'}
+  - {seq: 0, role: markers, filename: assets/KR6q0340_000-X.markers.yaml, hash: 'sha256:70b12f6cbf76f77126548cbbc98702d2ee33359c5d358d8dfc66903455a6263a'}
   - {seq: 1, role: markers, filename: assets/KR6q0340_001-X.markers.yaml, hash: 'sha256:01f4d97edfafdaf12bc9b535eed98297a89c03789fa2bcdd81f10c9b57eed491'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0340_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 虗舟和尚語錄目次
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0340_X_000-mulu-2
     span:
-    - front
+    - body
     - 116
     - 116
   label: No. 1407-A
@@ -855,4 +855,4 @@ table_of_contents:
   label: No. 1407-C
   type: mulu
   level: 1
-hash: sha256:f10367bf40086fe3b8ef2ed971d4b564f47946c56da52cc6fde78d88629f9d98
+hash: sha256:2cef91501e6096d5ce2b3f3110d49acb26468a0bfea996fcf6cd419dff9a9741
